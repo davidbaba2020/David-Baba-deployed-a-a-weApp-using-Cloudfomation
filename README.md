@@ -2,9 +2,9 @@
 
 LOADBALANCER URL
 
-click [here](http://serve-webap-1vzh12zkmvruf-368008624.us-east-1.elb.amazonaws.com/)
+click [here](http://serve-webap-1jbaqvwbk34vw-1374377029.us-east-1.elb.amazonaws.com/)
 
 
 ARCHITECTURAL DIAGRAM
 
-click [here](https://lucid.app/lucidchart/7b2a66dc-97a0-4600-ab63-e54268a512f5/edit?viewport_loc=173%2C-95%2C1480%2C573%2C0_0&invitationId=inv_bf198d46-c90e-4513-9492-0d37b6eb89a3#)
+click [here](https://lucid.app/lucidchart/f28f74b3-fa0e-4079-bd99-7777a91f1a0d/edit?invitationId=inv_dc3f9405-bc4a-4472-ae86-51e645359b23&page=0_0#?folder_id=recent)
